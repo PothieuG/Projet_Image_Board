@@ -1,1 +1,1 @@
-# Projet_Image_Board
+# projet-ImageBoard
